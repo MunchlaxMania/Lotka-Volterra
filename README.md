@@ -1,1 +1,3 @@
-# Lotka-Volterra
+# Lotka-VolterraのRunge-Kuttaによる近似
+生物の捕食-被捕食関係による各個体数の変動を表現する数理モデルLotka-Volterra方程式を、プログラミング言語のJuliaを利用して計算した
+また、その際にはRunge-Kuttaという近似法を利用して表現した
