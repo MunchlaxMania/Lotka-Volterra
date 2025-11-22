@@ -60,7 +60,7 @@ function main()
         lw = 2,
         xlabel = "Time", ylabel = "Population")
     
-    savegin("lotka_volterra.png")
+    savefig("lotka_volterra.png")
 end
 
 main()
